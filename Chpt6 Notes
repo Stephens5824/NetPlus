@@ -1,0 +1,19 @@
+    Syslog : Port UDP 514, Security Levels
+- Emergency (0) : System is unusable
+- Alert (1) : Immediate action required
+- Critical (2)
+- Error (3)
+- Warning (4)
+- Notification (5)
+- Information (6)
+- Debugging (7) 
+
+    SIP (VoIP) : Ports TCP&UDP 5060/ TCP 5061
+* Lacks features such as call forwarding and caller ID.
+
+    RTP (VoIP) : Ports UDP 5004/ TCP 5005
+
+    H.323 (Video) : Port TCP 1720
+> Provides a standard for video on a network that defines how real-time audio, video, and data information is transmitted.
+
+    Generic Routing Encapsulation (GRE)
