@@ -1,0 +1,19 @@
+    Ethernet Standards
+> Copper
+- 10BASE-T
+- 100BASE-TX
+- 1000BASE-T
+- 10GBASE-T
+- 40GBASE-T
+> Fiber
+- 100BASE-FX
+- 100BASE-SX
+- 1000BASE-SX
+- 1000BASE-LX
+- 10GBASE-SR
+- 10GBASE-LR
+> Types of Multiplexing
+- Coarse (CWDM)
+- Dense (DWDM)
+- Bidirectional (WDM)
+
